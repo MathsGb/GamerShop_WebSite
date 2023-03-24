@@ -24,13 +24,13 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "node_modules/bootstrap/dist/css/bootsrap.css",
-              "@angular/material/prebuilt-themes/pink-bluegrey.css",
-              "src/styles.css"
+            "styles": [ 
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+              "@angular/material/prebuilt-themes/indigo-pink.css",
+              "src/styles.css" 
             ],
             "scripts": [
-              "node_modules/bootstrap/dist/js/bootsrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
